@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+D:\vs project\9.2.2\UnitTest1\UnitTest1.cpp(21,9): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\vs project\9.2.2\UnitTest1\UnitTest1.cpp(21,9): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\vs project\9.2.2\UnitTest1\UnitTest1.cpp(23,1): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\vs project\9.2.2\UnitTest1\UnitTest1.cpp(23,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest1.cpp')
+  
